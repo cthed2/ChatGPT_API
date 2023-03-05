@@ -4,6 +4,7 @@ Este repositorio es para aprender a utilizar la API de CHATGPT.
 - Ordinola Castillo, Javier Alexander
 - Ordinola Mondragon, Martin Andre
 - Ipanaqué Sánchez, Cristhian Edward
+- Ipanaqué Sánchez, Josemanuel Edward
 ## Creacion de ambiente virtual
 
 1. Ejecutar la siguiente linea de dodigo en el terminal.
