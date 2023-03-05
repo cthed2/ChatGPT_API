@@ -3,7 +3,7 @@ Este repositorio es para aprender a utilizar la API de CHATGPT.
 ## Miembros del equipo:
 - Ordinola Castillo, Javier Alexander
 - Ordinola Mondragon, Martin Andre
-
+- Ipanaqué Sánchez, Cristhian Edward
 ## Creacion de ambiente virtual
 
 1. Ejecutar la siguiente linea de dodigo en el terminal.
