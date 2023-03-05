@@ -6,7 +6,7 @@ Este repositorio es para aprender a utilizar la API de CHATGPT.
 - Ipanaqué Sánchez, Cristhian Edward
 - Ipanaqué Sánchez, Josemanuel Edward
 ## Creacion de ambiente virtual
-
+> La creación del ambiente virtual debe realizarse antes de ejecutar los ejemplos del Jupyter Notebook.
 1. Ejecutar la siguiente linea de dodigo en el terminal.
 ```
 python -m venv venv
