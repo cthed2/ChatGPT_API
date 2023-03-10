@@ -1,10 +1,11 @@
 # ChatGPT_API
 Este repositorio es para aprender a utilizar la API de CHATGPT.
 ## Miembros del equipo:
+- Ipanaqué Sánchez, Cristhian Edward
+- Ipanaqué Sánchez, Josemanuel Edward 
 - Ordinola Castillo, Javier Alexander
 - Ordinola Mondragon, Martín André
-- Ipanaqué Sánchez, Cristhian Edward
-- Ipanaqué Sánchez, Josemanuel Edward
+- Sernaqué Ramos, Fresia Soledad
 - Rodríguez Masumura, Enrique Kiyoshi
 ## Creación de ambiente virtual
 > La creación del ambiente virtual debe realizarse antes de ejecutar los ejemplos del Jupyter Notebook.
